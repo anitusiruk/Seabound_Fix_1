@@ -1,0 +1,17 @@
+{
+  "structures": [
+    {
+      "structure": "seabound:ruin_5",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+
+    "salt": 4367768736,
+
+    "spacing": 20,
+
+    "separation": 6
+  }
+}

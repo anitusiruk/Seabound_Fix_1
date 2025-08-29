@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "seabound:block/archaic_shell_bricks_moss"
+  }
+
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "##",
+    "##"
+
+  ],
+  "key": {
+    "#": {
+      "item": "seabound:prismatic_shard_blue"
+    }
+  },
+  "result": {
+    "item": "seabound:prismatic_gem_blue"
+  }
+}

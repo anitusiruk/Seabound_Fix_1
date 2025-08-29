@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:feather"
+    },
+    "S": {
+      "item": "minecraft:bone"
+    },
+    "D": {
+      "item": "seabound:prismatic_shard"
+    }
+  },
+  "pattern": [
+    "D",
+    "S",
+    "#"
+  ],
+  "result": {
+    "count": 4,
+    "item": "seabound:prismatic_arrow"
+  },
+  "show_notification": true
+}

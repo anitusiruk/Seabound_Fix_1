@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:sandstone"
+    },
+    "S": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "pattern": [
+    "#S",
+    "S#"
+  ],
+  "result": {
+    "count": 4,
+    "item": "seabound:archaic_shell"
+  },
+  "show_notification": true
+}

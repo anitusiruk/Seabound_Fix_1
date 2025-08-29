@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "seabound:item/radiant_scepter"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "seabound:light": 1.0
+      },
+      "model": "seabound:item/radiant_scepter_dim"
+    }
+  ]
+}

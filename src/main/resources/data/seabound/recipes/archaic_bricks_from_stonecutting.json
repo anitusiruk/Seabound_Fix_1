@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "seabound:archaic_shell_smooth"
+  },
+  "result": "seabound:archaic_shell_bricks"
+}

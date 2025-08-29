@@ -1,0 +1,19 @@
+{
+  "item.seabound.prismatic_shard": "Prismatic Shard",
+  "item.seabound.prismatic_shard_red": "Crimson Shard",
+  "item.seabound.prismatic_shard_blue": "Aquamarine Shard",
+  "item.seabound.prismatic_shard_yellow": "Radiant Shard",
+  "item.seabound.prismatic_shard_purple": "Ultraviolet Shard",
+  "block.seabound.archaic_shell": "Archaic Shell",
+  "block.seabound.archaic_shell_smooth": "Smooth Archaic Shell",
+  "block.seabound.archaic_shell_bricks": "Archaic Bricks",
+  "block.seabound.archaic_shell_bricks_moss": "Mossy Archaic Bricks",
+  "block.seabound.prismatic_gem": "Prismatic Gemstone",
+  "block.seabound.prismatic_gem_red": "Crimson Gemstone",
+  "block.seabound.prismatic_gem_yellow": "Agate Gemstone",
+  "block.seabound.prismatic_gem_blue": "Aquamarine Gemstone",
+  "block.seabound.prismatic_gem_purple": "Ultraviolet Gemstone",
+  "block.seabound.ancient_pearl": "Ancient Pearl",
+  "item.seabound.radiant_scepter": "Radiant Scepter",
+  "item.seabound.prismatic_arrow": "Prismatic Arrow"
+}

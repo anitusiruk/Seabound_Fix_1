@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "seabound:prismatic_gem_yellow"
+    }
+  ],
+  "result": {
+    "item": "seabound:prismatic_shard_yellow",
+    "count": 4
+  }
+}

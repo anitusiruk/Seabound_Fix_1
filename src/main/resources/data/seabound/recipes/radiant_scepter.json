@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#RP",
+    "#BR",
+    "B##"
+
+  ],
+  "key": {
+    "#": {
+      "item": "seabound:prismatic_gem_yellow"
+    },
+    "B": {
+      "item": "minecraft:bone"
+    },
+    "R": {
+      "item": "minecraft:glowstone"
+    },
+    "P": {
+      "item": "seabound:ancient_pearl"
+    }
+  },
+  "result": {
+    "item": "seabound:radiant_scepter"
+  }
+}

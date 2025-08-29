@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "seabound:item/radiant_scepter_dim"
+  }
+}
