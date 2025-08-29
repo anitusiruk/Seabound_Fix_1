@@ -15,5 +15,6 @@
   "block.seabound.prismatic_gem_purple": "Ultraviolet Gemstone",
   "block.seabound.ancient_pearl": "Ancient Pearl",
   "item.seabound.radiant_scepter": "Radiant Scepter",
-  "item.seabound.prismatic_arrow": "Prismatic Arrow"
+  "item.seabound.prismatic_arrow": "Prismatic Arrow",
+  "tooltip.seabound.radiant_scepter.tooltip": "Right-click to illuminate/conceal an area. Shift-right click to set it to/from concealment mode."
 }
